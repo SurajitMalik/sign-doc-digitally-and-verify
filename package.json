@@ -1,0 +1,23 @@
+{
+  "name": "digital-signature-using-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "digital-sign-verify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurajitMalik/sign-doc-digitally-and-verify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SurajitMalik/sign-doc-digitally-and-verify/issues"
+  },
+  "homepage": "https://github.com/SurajitMalik/sign-doc-digitally-and-verify#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "pem": "^1.13.2"
+  }
+}
